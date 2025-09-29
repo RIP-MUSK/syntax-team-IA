@@ -2,7 +2,7 @@
 
 https://syntax-ia.netlify.app/ (modelo pronto)
 
-# Obtenha uma API Key do Google Gemini em: https://aistudio.google.com/app/apikey
+Obtenha uma API Key do Google Gemini em: https://aistudio.google.com/app/apikey
 
 
 # javascript 
